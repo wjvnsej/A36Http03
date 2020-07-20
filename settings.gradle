@@ -1,0 +1,2 @@
+rootProject.name='A36Http03'
+include ':app'
